@@ -14,10 +14,10 @@
 <img src='banner do projeto'>
 
 <div>
-    <img src="https://img.shields.io/github/repo-size/felpfsf/reponame">
-    <img src="https://img.shields.io/github/last-commit/felpfsf/reponame">
-    <img src="https://img.shields.io/github/languages/count/felpfsf/reponame">
-    <img src="https://img.shields.io/github/languages/top/felpfsf/reponame">
+    <img src="https://img.shields.io/github/repo-size/felpfsf/bootcamp-spread-dio">
+    <img src="https://img.shields.io/github/last-commit/felpfsf/bootcamp-spread-dio">
+    <img src="https://img.shields.io/github/languages/count/felpfsf/bootcamp-spread-dio">
+    <img src="https://img.shields.io/github/languages/top/felpfsf/bootcamp-spread-dio">
 </div>
 </div>
 
@@ -36,6 +36,9 @@ Utilitários
 
 ## 💻 Description
 
+First commit of SPREAD's Bootcamp @ Dio.me
+
+Bootcamp that aims at solid base of essential technologies in front-end and back-end
 
 
 ## Features
