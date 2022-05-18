@@ -30,7 +30,7 @@ This project is being developed with the follwing technologies:
 - HTML
 
 
-Utilitários
+Utilities
 
 - 
 
